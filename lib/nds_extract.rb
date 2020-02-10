@@ -18,6 +18,6 @@ end
 #
 def directors_totals(nds)
   result = {}
-  director_index = 0
-  gross_for_director(2)
+  director_index = 0 
+  gross_for_director(nds[1])
 end
